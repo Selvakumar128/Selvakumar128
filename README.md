@@ -1,4 +1,4 @@
-<img align="center" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" width="300" height="300" >
+<img  src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" width="300" height="300" marginright="80 >
 <h1 align="center">Hey there.. 👋, I'm Selvakumar S</h1>
 <h3 align="center">A passionate full stack mern developer from India</h3>
 
